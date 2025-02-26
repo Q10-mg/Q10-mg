@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm currently exploring the use of AI Agents in support of regenerative businesses.
 <!--
 **Q10-mg/Q10-mg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
